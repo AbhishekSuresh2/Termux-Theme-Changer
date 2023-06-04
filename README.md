@@ -6,7 +6,7 @@
 # I M Not Promote Hacking Only Ethical Hacking🙂
 
 ### What Is T-Remix
-T-Remix will Change Your Termux Into A Morden Termux And Give A Hacker Feel.
+T-Remix will Change Your Termux Into A Morden Termux And Give A Hacker Look.
 ### Features Of T-Remix
    1. Fully Customise Your Termux App.
    2. Encrypt Your Termux App.
