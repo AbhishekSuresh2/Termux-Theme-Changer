@@ -1,6 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
 pkg install python -y
-apt updaate&&upgrade
 clear
 cp login.py $PREFIX/bin/
 chmod 700 $PREFIX/bin/login.py
