@@ -8,7 +8,7 @@ echo "
   
 
 
-echo "  Made by ABHISHEK SURESH with love -------
+echo "  Made By Abhishek Suresh With Love -------
 
               ██╗  ██╗ █████╗  █████╗ ██╗  ██╗███████╗██████╗
               ██║  ██║██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
@@ -18,7 +18,7 @@ echo "  Made by ABHISHEK SURESH with love -------
               ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                                         "|lolcat
 
-echo " CREATOR is ABHISHEK SURESH with your love... 
+echo " Creator Is Abhishek Suresh With Your Love... 
      ━━━━━━━━━━━━━━━━━━━━━━━━━ [★] W E L C O M E [★] ━━━━━━━━━━━━━━━━━━━━━━━━
 
                               " |lolcat
