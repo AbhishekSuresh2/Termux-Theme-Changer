@@ -47,7 +47,7 @@ echo -e "\e[34m[*]\e[m \e[33Setting Up User Input \e[m"
 sleep 3
 echo -e "\e[34m[*]\e[m \e[33mCreate A Password(e.g. Abhishek) \e[m"
 sleep 2
-echo -e "\e[34m[*]\e[m \e[33mSave User Input \e[m"
+echo -e "\e[34m[*]\e[m \e[33mSaving User Input \e[m"
 echo " "
 echo -e "\e[32m-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+- \e[m "
 echo " "
