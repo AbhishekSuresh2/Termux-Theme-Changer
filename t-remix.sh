@@ -50,18 +50,18 @@ echo "
 echo " "
 echo " "
 echo " 
-       <─────────────── [ Re-Coded by =*•.¸♡Abhishek Suresh♡¸.•* ] ───────────────>            
+       <─────────────── [ Re Coded By =*•.¸♡Abhishek Suresh♡¸.•* ] ───────────────>            
                                                                " |lolcat
 
 
 sleep 5
 
 echo " "
-echo "[*]Installing T-Remix please wait " |lolcat
+echo "[*]Installing T-Remix Please Wait... " |lolcat
 sleep 3
-echo  "[*]checking the required packages " |lolcat
+echo  "[*]Checking The Required Packages " |lolcat
 sleep 2
-echo  "[*]Reading package list " |lolcat
+echo  "[*]Reading Package List " |lolcat
 sleep 2
 echo  "[*]Done " |lolcat
 sleep 2
@@ -145,7 +145,7 @@ echo -e "\033[1;34m[*]\e[33m Installing \e[m "
 sleep 4
 echo -e "\033[1;34m[*]\e[33m Reading packages \e[m "
 sleep 5
-echo -e "\033[1;34m[*]\e[33m Securing termux-login \e[m "
+echo -e "\033[1;34m[*]\e[33m Securing Termux Login \e[m "
 sleep 2
 echo -e "\033[1;34m[*]\e[33m Done \e[m "
 sleep 1
@@ -173,7 +173,7 @@ echo " "
 
 echo " "
 echo "
-        <─────────────── [Re-Coded by *•.¸♡Abhishek Suresh♡¸.•* ] ───────────────>              
+        <─────────────── [Re Coded by *•.¸♡Abhishek Suresh♡¸.•* ] ───────────────>              
                             " |lolcat
 
 echo " "
@@ -189,7 +189,7 @@ tput clear
 tput cup 3 30
 echo -e "\e[44m Like \e[41m Subscribe \e[m"
 tput cup 6 30
-echo -e "\x1b[42m Abhishek Suresh's Comedy Melody CH YouTube Channel \x1b[m"
+echo -e "\x1b[42m Abhi Tech CH YouTube Channel \x1b[m"
 tput cup 9 0
 echo -en "\e[93m What Is Your Name : \e[m"
 read answer
@@ -201,13 +201,13 @@ read answer
 
 if [ "$answer" != "${answer#[Yy]}" ] ;then
 tput cup 17 21
-    echo -e "\e[42m ThankYou For Subscribing My YouTube Channel \e[m"
+    echo -e "\e[42m Thank You For Subscribing My YouTube Channel \e[m"
 else
 tput cup 17 23
     echo -e "\x1b[41m Please Subsrcibe My YouTube channel And Support Me \x1b[m"
 fi
 tput cup 20 0
-figlet -f slant "Abhishek Suresh's Comedy Melody CH" |lolcat
+figlet -f slant "Abhi Tech CH" |lolcat
 echo " "
 echo " "
 #done setting up
